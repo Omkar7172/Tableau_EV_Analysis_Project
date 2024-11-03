@@ -14,6 +14,8 @@ Visualized metrics like CAFV eligibility, average electric range, and top vehicl
 🔄 40% of vehicles are CAFV-eligible, offering insights for policy and infrastructure planning.
 Provided a clear, interactive view for stakeholders to drive data-backed decisions in sustainable transportation
 
+DASHBOARD---https://public.tableau.com/app/profile/omkar.hase/viz/ELECTRICVEHICLEDATAANALYSISTableauProject/Dashboard2?publish=yes
+
 PROBLEM STATEMENT
 KPI’S Requirement
 1.	Total Vehicles:
